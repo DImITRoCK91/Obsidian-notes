@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "0deb8fef32a26d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc48914d6048ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0f74aee85448fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задания/Конспект №1 - компиляция и запуск программы на Java. Чем эта компиляция отличается от C..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конспект №1 - компиляция и запуск программы на Java. Чем эта компиляция отличается от C."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c3d7c73b0ddff2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc355a34ff87b8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accbe337280bbc11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e9fbfeb1db8d7dc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e123a702aae9790d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b3e372f99420484",
+    "type": "split",
+    "children": [
+      {
+        "id": "07504534332a8cba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3d2beb47eec41c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "0279d3007efd8fb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6187c45d43330af6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f0fbdbfefefb42e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "488da5f54867e14e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "da0f74aee85448fe",
+  "lastOpenFiles": [
+    "Задания/Отчёт по системе сборки Maven и Gradle.md",
+    "Задания/Конспект №7 - Управление памятью и оператор new в Java.md",
+    "Задания/Конспект №3 - Форматированный вывод в Java (format и printf).md",
+    "Задания/Конспект №1 - компиляция и запуск программы на Java. Чем эта компиляция отличается от C..md",
+    "Задания/Конспект класс String и операции в Java.md",
+    "Задания/Конспект №2 - Рекомендации по стилю кодирования на Java (на основе Google Java Style Guide).md",
+    "Задания/Изображения/idea64_vTqQA0aHkE 1.png",
+    "Задания/Изображения/idea64_vTqQA0aHkE.png",
+    "Задания/Изображения/Pasted image 20261028011317.png",
+    "Лекции/ООП/Лекция №5.md",
+    "Задания/Изображения/Pasted image 20261028023608.png",
+    "Задания/Изображения/Pasted image 20261028023519.png",
+    "Задания/Изображения/Pasted image 20261028023248.png",
+    "Задания/Изображения/Pasted image 20261028022133.png",
+    "Задания/Изображения/Pasted image 20261028021424.png",
+    "Задания/Изображения/Pasted image 20261028020229.png",
+    "Задания/Изображения/Pasted image 20261028020132.png",
+    "Задания/Недоделанные конспекты/Конспект по ArrayList.md",
+    "Задания/Проверенные задания/Отчёт компиляции - Java.md",
+    "Задания/Проверенные задания/Отчёт о работе с аргументами командной строки в программах на языке Java.md",
+    "Задания/Проверенные задания",
+    "Задания/Недоделанные конспекты/Конспект №6 - Оператор switch в Java.md",
+    "Задания/Недоделанные конспекты/Конспект №5 - Тернарный оператор в Java.md",
+    "Задания/Недоделанные конспекты/Конспект №4 - тип enum в Java.md",
+    "Задания/Недоделанные конспекты",
+    "Задания/Проверенные задания/Отчёт по работе с git.md",
+    "Лекции/ООП/Лекция №2.md",
+    "Лекции/ООП/Лекция №6.md",
+    "Лекции/ООП/Лекция №3.md",
+    "Лекции/ООП/Лекция №4.md",
+    "Лекции/Язык Ассемблер/Лекция №3.md",
+    "Лекции/Язык Ассемблер/Язык Ассемблер продолжение - лекция №2.md",
+    "Лекции/Язык Ассемблер/Язык ассемблер - знакомство - лекция №1.md",
+    "Задания/Изображения",
+    "Задания",
+    "Лекции/ООП/ООП - знакомство - лекция №1.md",
+    "Добро пожаловать.md",
+    "Лекции/ООП",
+    "Лекции/Язык Ассемблер",
+    "Язык ассемблер.md",
+    "Лекции"
+  ]
+}
